@@ -1,6 +1,7 @@
 # webdev-assignment2
 
 To run: pull reopository and run commands specified in commands.md.
+
 .env with MongoDB connection URL ommitted, containing secret
 
 REGISGTER AND LOGIN
